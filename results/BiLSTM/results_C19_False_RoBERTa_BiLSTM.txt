@@ -1,0 +1,9 @@
+Subset size: 595
+Success score: 0.9983193277310924
+Semantic score: 0.5673142163123761
+Character score: 0.9200559710345586
+BODEGA score: 0.5290695337491466
+Queries per example: 130.981512605042
+Total attack time: 155.54826021194458
+Time per example: 0.2614256474150329
+Total evaluation time: 155.54826021194458
