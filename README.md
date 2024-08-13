@@ -1,5 +1,7 @@
 # Palöri at CheckThat! 2024 Shared Task 6: GloTa - Combining GloVe Embeddings with RoBERTa for Adversarial Attack
 
+[Paper](https://ceur-ws.org/Vol-3740/paper-43.pdf)
+
 ## Abstract
 This paper presents our approach and results for Shared Task 6 at CheckThat! Lab at CLEF 2024. We introduce two novel adversarial attack methods designed to evaluate the robustness of credibility assessment (CA) classifiers across five tasks: fact-checking, COVID-19 misinformation detection, propaganda detection, style-based news bias assessment, and rumor detection. Our proposed method, GloTa, which combines GloVe embeddings with RoBERTa-based substitutions, outperformed baseline methods in most tasks. Specifically, GloTa achieved the highest BODEGA scores in propaganda detection and fact-checking, indicating significant vulnerabilities in these areas.
 
